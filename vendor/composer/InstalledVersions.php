@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => '1.x-dev',
+    'version' => '1.9999999.9999999.9999999-dev',
     'aliases' => 
     array (
     ),
-    'reference' => '65448b713b621cd2f0b3980bb7cf5479d43d37ae',
+    'reference' => 'd97a1edf4054bab0f15a319aa16924326b7f7de6',
     'name' => 's01638/phpkit',
   ),
   'versions' => 
   array (
     's01638/phpkit' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => '1.x-dev',
+      'version' => '1.9999999.9999999.9999999-dev',
       'aliases' => 
       array (
       ),
-      'reference' => '65448b713b621cd2f0b3980bb7cf5479d43d37ae',
+      'reference' => 'd97a1edf4054bab0f15a319aa16924326b7f7de6',
     ),
   ),
 );

@@ -6,7 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Cake\\Cache' => $baseDir . '/src/Cake/Cache.php',
     'Cake\\Config\\Cache' => $baseDir . '/src/Cake/Config/Cache.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'HelloWorld\\SayHello' => $baseDir . '/src/HelloWorld/SayHello.php',

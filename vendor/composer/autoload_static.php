@@ -7,7 +7,6 @@ namespace Composer\Autoload;
 class ComposerStaticInit6a5c9958441967de07606215f4e23a99
 {
     public static $classMap = array (
-        'Cake\\Cache' => __DIR__ . '/../..' . '/src/Cake/Cache.php',
         'Cake\\Config\\Cache' => __DIR__ . '/../..' . '/src/Cake/Config/Cache.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'HelloWorld\\SayHello' => __DIR__ . '/../..' . '/src/HelloWorld/SayHello.php',
