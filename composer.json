@@ -1,0 +1,19 @@
+{
+  "name": "s01638/phpkit",
+  "authors": [
+    {
+      "name": "mztnnrt",
+      "email": "mizutani_norito@cam-inc.co.jp"
+    }
+  ],
+  "description": "xxx",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.3.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
