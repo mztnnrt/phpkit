@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'd97a1edf4054bab0f15a319aa16924326b7f7de6',
+    'reference' => '4efb3df66c0e1f657d6fe8522bf1e01ab02b1306',
     'name' => 's01638/phpkit',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'd97a1edf4054bab0f15a319aa16924326b7f7de6',
+      'reference' => '4efb3df66c0e1f657d6fe8522bf1e01ab02b1306',
     ),
   ),
 );
